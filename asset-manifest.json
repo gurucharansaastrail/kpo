@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/kpo/static/css/main.e6c13ad2.css",
+    "main.js": "/kpo/static/js/main.20a96bdb.js",
+    "static/js/787.09a9c216.chunk.js": "/kpo/static/js/787.09a9c216.chunk.js",
+    "static/media/business_img.png": "/kpo/static/media/business_img.b91f93638b8a8b1dfe96.png",
+    "static/media/health_tips_img.png": "/kpo/static/media/health_tips_img.6aeaf682212cf3e942f9.png",
+    "static/media/Rectangle 52.png": "/kpo/static/media/Rectangle 52.0e9f3bd99329c269b64e.png",
+    "static/media/Rectangle 51.png": "/kpo/static/media/Rectangle 51.bc8083f622d02fd7a173.png",
+    "static/media/about_img.png": "/kpo/static/media/about_img.d12a65d2a7b24e69e1b0.png",
+    "static/media/con_img.png": "/kpo/static/media/con_img.75d12282f1a9a657d289.png",
+    "static/media/Rectangle 44.png": "/kpo/static/media/Rectangle 44.d452a01af81fb44d7699.png",
+    "static/media/Rectangle 45.png": "/kpo/static/media/Rectangle 45.7e7bf939b8ac4b1193c2.png",
+    "static/media/Rectangle 43.png": "/kpo/static/media/Rectangle 43.8e449219be2abe853808.png",
+    "static/media/Rectangle 46.png": "/kpo/static/media/Rectangle 46.e930f09a360f47ca3b97.png",
+    "static/media/Rectangle40.png": "/kpo/static/media/Rectangle40.deb15503185cc8e98235.png",
+    "static/media/Rectangle 47.png": "/kpo/static/media/Rectangle 47.193a220ec942861fb735.png",
+    "static/media/Rectangle 41.png": "/kpo/static/media/Rectangle 41.2f9de29b29e4620a2172.png",
+    "static/media/Rectangle 42.png": "/kpo/static/media/Rectangle 42.437197a94b545c117670.png",
+    "static/media/Rectangle 39.png": "/kpo/static/media/Rectangle 39.4327cd561b5395ddcc1a.png",
+    "static/media/logo.png": "/kpo/static/media/logo.59e3c47c0e9e391fe59f.png",
+    "index.html": "/kpo/index.html",
+    "main.e6c13ad2.css.map": "/kpo/static/css/main.e6c13ad2.css.map",
+    "main.20a96bdb.js.map": "/kpo/static/js/main.20a96bdb.js.map",
+    "787.09a9c216.chunk.js.map": "/kpo/static/js/787.09a9c216.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.20a96bdb.js"
+  ]
+}
